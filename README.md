@@ -37,3 +37,5 @@ A tool to archive logs on a set schedule by compressing them and storing them in
 This will create a compressed archive of the logs in a new directory called `log_archives`, located in the parent directory of the specified log directory.\
 The archive will be named in the format: `logs_archive_YYYYMMDD_HHMMSS.tar.gz`\
 A log of the archive creation will be added to `log_archives/archive_log.txt`.
+
+[Link](https://roadmap.sh/projects/log-archive-tool)
